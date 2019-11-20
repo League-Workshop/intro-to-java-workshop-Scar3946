@@ -14,7 +14,7 @@ public class CandyCrush {
 		String name1=JOptionPane.showInputDialog("Who is your best friend?");
 
 		// 4. Tell them their best friend is as sweet as candy
-		JOptionPane.showMessageDialog(null, name1 + "is as sweet as candy");
+		JOptionPane.showMessageDialog(null, name1 + " is as sweet as candy");
 
 	} 
 }
