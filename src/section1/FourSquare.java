@@ -1,4 +1,4 @@
-package section2;
+package section1;
 
 import javax.swing.JOptionPane;
 import org.jointheleague.graphical.robot.Robot;
